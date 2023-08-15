@@ -1,5 +1,5 @@
 # python_WebServer
-Contoh program webserver sederhana (client-server) menggunakan bahasa python
+Contoh program webserver sederhana (client-server) berbasis TCP socket programming menggunakan bahasa python
 
 Cara Running:
 1) Jalankan webserver.py
